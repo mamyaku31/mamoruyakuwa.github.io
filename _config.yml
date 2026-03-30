@@ -24,9 +24,10 @@ repository               : "mamoruyakuwa_home"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mamoru Yakuwa"
+  name             : "Mamoru Yakuwa / 八鍬　守"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hello / Bonjour / こんにちは //
+  I am a BA student working on phonology and its interfeces with phonetics, morphology and psycholinguistics."
   location         : "Earth"
   employer         : "B4 student, Department of French language and literature, Faculty of letters, Aoyama Gakuin University"
   uri              : "https://www.aoyama.ac.jp/en/"
