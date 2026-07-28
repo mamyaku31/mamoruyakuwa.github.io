@@ -16,9 +16,7 @@ Through my research, I aim to clarify what kind of knowledge human beings have a
 
 + I will be giving a presentation at the [Phonology Forum](https://www.phsj.jp/events.php) held at Kanazawa University. For further detail, please see [my research works](Research/index.md).
 
-+ 青山学院大学の[最優秀成績賞](https://www.aoyama.ac.jp/life/prize/)を受賞しました！私のインタビュー記事が近日[AGU LiFE](https://life.a01.aoyama.ac.jp/)にて公開される予定です。研究のことについてたくさんお話ししたのでぜひご覧ください！
-
-I have been awarded the [First Academic Excellence Award](https://www.aoyama.ac.jp/life/prize/?wovn=en) at Aoyama Gakuin University! An interview with me is due to be published shortly in [AGU LiFE](https://life.a01.aoyama.ac.jp/). I talked at length about my research. Stay tuned!
++ 青山学院大学の[最優秀成績賞](https://www.aoyama.ac.jp/life/prize/)を受賞しました！私のインタビュー記事が近日[AGU LiFE](https://life.a01.aoyama.ac.jp/)にて公開される予定です。研究のことについてたくさんお話ししたのでぜひご覧ください！<br> I have been awarded the [First Academic Excellence Award](https://www.aoyama.ac.jp/life/prize/?wovn=en) at Aoyama Gakuin University! An interview with me is due to be published shortly in [AGU LiFE](https://life.a01.aoyama.ac.jp/). I talked at length about my research. Stay tuned!
 
 ## Research interests
 
