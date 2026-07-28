@@ -10,7 +10,7 @@
 
 ## Conference talks
 
-+ Yakuwa, Mamoru and Matsumiya, Izumi (2026) Revealing the inner structure of Japanese echo-words: An idiosyncratic form of reduplication. Tokyo Circle of Phonologists (TCP) @ University of Tokyo, Komaba Campus. [View slide](Slides/TCP2026.pdf)
++ Yakuwa, Mamoru and Matsumiya, Izumi (2026) Revealing the inner structure of Japanese echo-words: An idiosyncratic form of reduplication. Tokyo Circle of Phonologists (TCP) @ University of Tokyo, Komaba Campus. [View slide](Slides/TCPslide.pdf)
 + Yakuwa, Mamoru and Huang, Chuyu (2026) Effect of intervocalic voicing on diminutive -kko suffixation in Tohoku Japanese. Phonology Festa 2026@University of Tokyo, Komaba Campus.  [View slide](Slides/Yakuwa_Huang_Festa.pdf)
 + 八鍬守 (2026a)「ぱるる？ぱるたん？平成アイドルと令和アイドルにおける愛称語形成の異なるトレンドとそのMaxEntシミュレーション」,言語学フェス2026 (オンライン開催) [View poster](Slides/poster.pdf)
 + Yakuwa, Mamoru (2025) "Morphological Process and Analogical Effects in Demonym Formation in French: Proposal of a DM Account" Morphology and Lexicon Forum (MLF) 2025@ Tsukuba municipal centre, big conference hall. [View slide](Slides/MLF_2025_Mamoru_Yakuwa[202].pdf)
