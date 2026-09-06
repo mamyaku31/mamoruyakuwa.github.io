@@ -2,8 +2,6 @@
 
 ## Forthcoming, preprints
 
-+ Yakuwa, Mamoru (2026a) Intersecting families of phonological and extra-linguistic constraints: Evidence from French demonym formation. [Phonology Forum](https://www.phsj.jp/events.php) @ Kanazawa University [View slide](Slides/Forum_MAIN.pdf)
-
 + 八鍬守 (2026b) フランス語におけるリエゾン子音と頻度分布: 音節構造との関係性に関する予備的調査, [Evidence-based linguistics workshop 2026](https://sites.google.com/view/elw-workshop/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BC%E3%82%AF_1?authuser=0) @ 国立国語研究所
 
 ## Publications
@@ -12,6 +10,7 @@
 
 ## Conference talks
 
++ Yakuwa, Mamoru (2026a) Intersecting families of phonological and extra-linguistic constraints: Evidence from French demonym formation. [Phonology Forum](https://www.phsj.jp/events.php) @ Kanazawa University [View slide](Slides/Forum_MAIN.pdf)
 + Yakuwa, Mamoru and Matsumiya, Izumi (2026) Revealing the inner structure of Japanese echo-words: An idiosyncratic form of reduplication. Tokyo Circle of Phonologists (TCP) @ University of Tokyo, Komaba Campus. [View slide](Slides/TCPslide.pdf)
 + Yakuwa, Mamoru and Huang, Chuyu (2026) Effect of intervocalic voicing on diminutive -kko suffixation in Tohoku Japanese. Phonology Festa 2026@University of Tokyo, Komaba Campus.  [View slide](Slides/Yakuwa_Huang_Festa.pdf)
 + 八鍬守 (2026a)「ぱるる？ぱるたん？平成アイドルと令和アイドルにおける愛称語形成の異なるトレンドとそのMaxEntシミュレーション」,言語学フェス2026 (オンライン開催) [View poster](Slides/poster.pdf)
